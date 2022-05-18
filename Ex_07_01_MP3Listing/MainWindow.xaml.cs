@@ -24,5 +24,30 @@ namespace Ex_07_01_MP3Listing
         {
             InitializeComponent();
         }
+
+        private void MenuFileLoadPath_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void MenuFileSavePath_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void MenuFileExit_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void MenuInfoAbout_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ListButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
