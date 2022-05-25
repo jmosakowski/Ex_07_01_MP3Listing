@@ -32,7 +32,9 @@
                      Name="TextPath" Text="C:\Windows\" TextWrapping="NoWrap"
                      VerticalAlignment="Top" Width="250"/>
             <CheckBox Content="Include subfolders" Grid.Row="1"
-                      HorizontalAlignment="Left" IsChecked="True" Margin="100,10,0,0"                      Name="CheckBoxSubfolders" VerticalAlignment="Top"/>            <Button Background="LightGreen" Click="ListButton_Click"
+                      HorizontalAlignment="Left" IsChecked="True" Margin="100,10,0,0"
+                      Name="CheckBoxSubfolders" VerticalAlignment="Top"/>
+            <Button Background="LightGreen" Click="ListButton_Click"
                     Content="Create my mp3 list!" Grid.Row="2"
                     HorizontalAlignment="Center" VerticalAlignment="Center"/>
         </Grid>
